@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/450974505_3730742032_212655260.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_2919773262_1184149422.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_398514950_2291727776.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_1881966562_1553212690.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_195246953_4169633103.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_1656136656_2525804802.mp4'
+file 'file:C:/Users/Sarwin/OneDrive/Desktop/project/media/videos/test/1080p60/partial_movie_files/BraceAnnotation/34786186_884780913_3680210484.mp4'
